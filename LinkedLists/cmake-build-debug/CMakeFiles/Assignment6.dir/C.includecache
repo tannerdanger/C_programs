@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/HW6.c
+linkedlist.h
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.h
+sort.h
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/sort.h
+
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.c
+linkedlist.h
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.h
+
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+ctype.h
+-
+linkedlist.h
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.h
+
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/sort.c
+sort.h
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/sort.h
+
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/sort.h
+linkedlist.h
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.h
+

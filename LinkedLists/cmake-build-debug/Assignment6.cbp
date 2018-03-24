@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment6"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment6">
+				<Option output="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Assignment6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment6"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment6/fast">
+				<Option output="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Assignment6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment6/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/HW6.c">
+			<Option target="Assignment6"/>
+		</Unit>
+		<Unit filename="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.c">
+			<Option target="Assignment6"/>
+		</Unit>
+		<Unit filename="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/linkedlist.h">
+			<Option target="Assignment6"/>
+		</Unit>
+		<Unit filename="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/sort.c">
+			<Option target="Assignment6"/>
+		</Unit>
+		<Unit filename="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/sort.h">
+			<Option target="Assignment6"/>
+		</Unit>
+		<Unit filename="/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

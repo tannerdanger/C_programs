@@ -1,0 +1,4 @@
+/home/tanner/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/173.4301.33/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug

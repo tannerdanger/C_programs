@@ -1,0 +1,3 @@
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/52af8e3c-0dab-4d8b-9a65-ac15949b4440/syncthing/workspace/school/C/Assignment6/cmake-build-debug/CMakeFiles/Assignment6.dir

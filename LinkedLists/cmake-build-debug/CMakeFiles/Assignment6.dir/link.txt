@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Assignment6.dir/HW6.c.o CMakeFiles/Assignment6.dir/linkedlist.c.o CMakeFiles/Assignment6.dir/sort.c.o  -o Assignment6 
